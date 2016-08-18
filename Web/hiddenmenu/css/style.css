@@ -1,0 +1,8 @@
+* {margin:0px; padding:0px;}
+body {font-family:"Open Sans", sans-serif;}
+.ustbar {height:40px; background:#eee; border-bottom:1px solid #ddd; }
+.menu-button {line-height:40px; padding:0px 10px; background:#fafafa; float:left; cursor:pointer;}
+#tasiyici { width:calc(100% - 40%); margin:auto; }
+.menu { display:none; position:absolute; top:40px; background:#f1f1f1; border:1px solid #ddd; }
+.menu li{list-style:none; padding:3px 7px; cursor:pointer;}
+.menu li:hover{background:#fafafa;}
