@@ -5,7 +5,7 @@ Technical Explanation: https://blog.sucuri.net/2017/02/content-injection-vulnera
 REST API Wordpress reference: https://developer.wordpress.org/rest-api/reference/posts/#update-a-post
 Wordpress Version Affected: 4.7.0/4.7.1
 
-2017 - Coded by snoww0lf ~ Edited by Black Viking ~ Used By Bomch4nte ~ Readed by CW user neyse şaka bi yana ...
+2017 - Coded by snoww0lf ~ Edited by Black Viking ~ Used By Bomch4nte ~ Readed by CW user neyse saka bi yana ...
 """
 import re
 import json
